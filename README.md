@@ -17,12 +17,10 @@ Welcome to the distribution hub for the **Nephro Healthcare Tracker**. This open
 
 ## 📥 Direct Downloads & Public Cloud Share Mirrors
 
-Choose from the secure distribution sources below to safely download your master tracker materials:
-
-* 📂 [Download Clean Excel Tracker Template](https://github.com) — *Click here to download your home vitals metrics logs and analytical lab trends database directly from this repository.*
-* 📖 [Download Comprehensive User Manual PDF](https://github.com) — *Click here to download your step-by-step guidance guide explaining color schemes, entry targets, and printing specifications.*
-* ☁️ [Alternative OneDrive Distribution Folder Mirror](https://1drv.ms) — *Click here to download materials directly from the OneDrive cloud drive mirror if you prefer a non-technical folder layout.*
-* ☁️ [Alternative Google Drive Distribution Mirror](https://google.com) — *Click here to download materials directly from your Google Drive backup directory if accessing via Android or mobile systems.*
+* 📂 **EXCEL TRACKER TEMPLATE:** 
+* 📖 **COMPREHENSIVE USER MANUAL PDF:** 
+* ☁️ **OneDrive Folder Mirror:** https://1drv.ms
+* ☁️ **Google Drive Mirror:** https://google.com
 
 ---
 
@@ -43,5 +41,7 @@ This tracker ecosystem is shared fully free of charge to maximize global patient
 * **Code Integration:** To volunteer configuration adjustments, submit a formal **Pull Request** for review.
 
 **Copyright License:** Distributed openly under the global **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** legal protocol. You are free to share and adapt these documents, provided appropriate credit attribution is given and modified materials remain 100% free and unmonetized for all future users.
+[Nephro_Tracker_User_Manual_v_1.0--[_Online_Sharing_].pdf](https://github.com/user-attachments/files/33297400/Nephro_Tracker_User_Manual_v_1.0--._Online_Sharing_.pdf)
+[Nephro_Healthcare_Tracker_v_2.0_BLANK--[_Online_Sharing_].xlsx](https://github.com/user-attachments/files/33297399/Nephro_Healthcare_Tracker_v_2.0_BLANK--._Online_Sharing_.xlsx)
 
 
