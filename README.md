@@ -17,10 +17,10 @@ Welcome to the distribution hub for the **Nephro Healthcare Tracker**. This open
 
 ## 📥 Direct Downloads & Public Cloud Share Mirrors
 
-* 📂 **EXCEL TRACKER TEMPLATE:** 
-* 📖 **COMPREHENSIVE USER MANUAL PDF:** 
-* ☁️ **OneDrive Folder Mirror:** https://1drv.ms
-* ☁️ **Google Drive Mirror:** https://google.com
+* 📂 **EXCEL TRACKER TEMPLATE:** [Nephro_Healthcare_Tracker_v_2.0_BLANK--[_Online_Sharing_].xlsx](https://github.com/user-attachments/files/33297399/Nephro_Healthcare_Tracker_v_2.0_BLANK--._Online_Sharing_.xlsx)
+* 📖 **COMPREHENSIVE USER MANUAL PDF:** [Nephro_Tracker_User_Manual_v_1.0--[_Online_Sharing_].pdf](https://github.com/user-attachments/files/33297400/Nephro_Tracker_User_Manual_v_1.0--._Online_Sharing_.pdf)
+* ☁️ **OneDrive Folder Mirror:** [[https://1drv.ms](https://1drv.ms/f/c/8ee4dcad39f1237c/IgB9h4jDAPKMQZQAE72YceFSAeYN9XzODRrld2k3EFrnnIY?e=6ktJSr)](https://drive.google.com/drive/folders/1803NrJS1yNAAvDU3uhCYDEiSemBAhPnK?usp=sharing)
+* ☁️ **Google Drive Mirror:** [https://google.com](https://drive.google.com/drive/folders/1803NrJS1yNAAvDU3uhCYDEiSemBAhPnK?usp=sharing)
 
 ---
 
