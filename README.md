@@ -19,10 +19,10 @@ Welcome to the distribution hub for the **Nephro Healthcare Tracker**. This open
 
 Choose from the secure distribution sources below to safely download your master tracker materials:
 
-* 📂 **[Download Clean Excel Tracker Template](https://github.com)** — *The core data management document containing your vitals logs, clinical dashboards, and lab results serial sheets.*
-* 📖 **[Download Comprehensive User Manual PDF](https://github.com)** — *The 51-page guide book outlining data guidelines, target references, printing checklists, and color codes.*
-* ☁️ **[Alternative OneDrive Distribution Folder Mirror](https://1drv.ms)** — *Click here to download materials directly from the OneDrive consumer mirror framework if you prefer a non-technical layout.*
-* ☁️ **[Alternative Google Drive Distribution Mirror](https://google.com)** — *Click here to download materials directly from your Google Drive backup directory if accessing via Android or mobile systems.*
+* 📂 [Download Clean Excel Tracker Template](https://github.com) — *Click here to download your home vitals metrics logs and analytical lab trends database directly from this repository.*
+* 📖 [Download Comprehensive User Manual PDF](https://github.com) — *Click here to download your step-by-step guidance guide explaining color schemes, entry targets, and printing specifications.*
+* ☁️ [Alternative OneDrive Distribution Folder Mirror](https://1drv.ms) — *Click here to download materials directly from the OneDrive cloud drive mirror if you prefer a non-technical folder layout.*
+* ☁️ [Alternative Google Drive Distribution Mirror](https://google.com) — *Click here to download materials directly from your Google Drive backup directory if accessing via Android or mobile systems.*
 
 ---
 
@@ -43,4 +43,5 @@ This tracker ecosystem is shared fully free of charge to maximize global patient
 * **Code Integration:** To volunteer configuration adjustments, submit a formal **Pull Request** for review.
 
 **Copyright License:** Distributed openly under the global **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** legal protocol. You are free to share and adapt these documents, provided appropriate credit attribution is given and modified materials remain 100% free and unmonetized for all future users.
+
 
