@@ -47,9 +47,9 @@ This tracker ecosystem is shared fully free of charge to maximize global patient
 We openly invite software developers, data analysts, Excel enthusiasts, and medical professionals to suggest feature enhancements, refine macro calculations, or add operational blocks.
 Please Share Your Valuable Feedback / Suggestions with us  : kidneycare193@gmail.com
 
-##  Your Motto Should Be : Small numbers, written down every day, make big conversations possible.
+##  Your Motto Should Be : 
+* **Small Numbers, Written Down Every Day, Make Big Conversations Possible.**
 
- 
 * **Bug Tracking & Layout Requests:** To report structural bugs or request additions, open a ticket inside the **Issues** tab.
 * **Code Integration:** To volunteer configuration adjustments, submit a formal **Pull Request** for review.
 
