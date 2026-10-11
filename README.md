@@ -55,5 +55,7 @@ Please Share Your Valuable Feedback / Suggestions with us  : kidneycare193@gmail
   
 * **Code Integration:** To volunteer configuration adjustments, submit a formal **Pull Request** for review.
 
-**Copyright License:** Distributed openly under the global **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** legal protocol. You are free to share and adapt these documents, provided appropriate credit attribution is given and modified materials remain 100% free and unmonetized for all future users.
+**Copyright License:** 
+Distributed openly under the global **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** legal protocol. 
+You are free to share and adapt these documents, provided appropriate credit attribution is given and modified materials remain 100% free and unmonetized for all future users.
 
