@@ -19,10 +19,10 @@ Welcome to the distribution hub for the **Nephro Healthcare Tracker**. This open
 
 Choose from the secure distribution sources below to safely download your master tracker materials:
 
-* 📂 **[Download Clean Excel Tracker Template](Nephro_Healthcare_Tracker_v2.0_BLANK--[_Online_Sharing_].xlsx)** — *The core data management document containing your vitals logs, clinical dashboards, and lab results serial sheets.*
-* 📖 **[Download Comprehensive User Manual PDF](Nephro_Tracker_User_Manual_v1.0--[_Online_Sharing_].pdf)** — *The 51-page guide book outlining data guidelines, target references, printing checklists, and color codes.*
-* ☁️ **[Alternative OneDrive Distribution Folder Mirror](https://1drv.ms "OneDrive Share Hub")** — *Click here to download materials directly from the OneDrive consumer mirror framework if you prefer a non-technical layout.*
-* ☁️ **[Alternative Google Drive Distribution Mirror](https://google.com "Google Drive Share Hub")** — *Click here to download materials directly from your Google Drive backup directory if accessing via Android or mobile systems.*
+* 📂 **[Download Clean Excel Tracker Template](Nephro_Healthcare_Tracker_v2.0_BLANK--%5B_Online_Sharing_%5D.xlsx)** — *The core data management document containing your vitals logs, clinical dashboards, and lab results serial sheets.*
+* 📖 **[Download Comprehensive User Manual PDF](Nephro_Tracker_User_Manual_v1.0--%5B_Online_Sharing_%5D.pdf)** — *The 51-page guide book outlining data guidelines, target references, printing checklists, and color codes.*
+* ☁️ **[Alternative OneDrive Distribution Folder Mirror](https://1drv.ms)** — *Click here to download materials directly from the OneDrive consumer mirror framework if you prefer a non-technical layout.*
+* ☁️ **[Alternative Google Drive Distribution Mirror](https://google.com)** — *Click here to download materials directly from your Google Drive backup directory if accessing via Android or mobile systems.*
 
 ---
 
