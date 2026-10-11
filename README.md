@@ -2,7 +2,7 @@
 
 Welcome to the Distribution Hub for the **Nephro Healthcare Tracker Ver 2.0**. 
 
-This Open-Source Healthcare Management Toolkit is designed to help in recording and monitoring the Post Kidney Transplant Vitals of Patients. It provides a Structured, Automated home vitals monitoring template and a Tracking Dashboard Ecosystem, designed to help Kidney Transplant Recipients, their families, and caregivers to systematically log the Patient data to optimize from the Follow-up Consultations with their treating Nephrologists.
+This Open-Source Healthcare Management Toolkit is designed to help in recording and monitoring the Post Kidney Transplant Vitals of C K D Patients. It provides a Structured, Automated home vitals monitoring template and a Tracking Dashboard Ecosystem, designed to help Kidney Transplant Recipients, their families, and caregivers to systematically log the Patient data to optimize from the Follow-up Consultations with their treating Nephrologists.
 
 ---
 
