@@ -1,4 +1,4 @@
-# 🩺 Nephro Healthcare Tracker (Personal Edition) - Version 2.0
+# 🩺 Nephro Healthcare Tracker (Pers Edition) - Version 2.0
 
 Welcome to the Distribution Hub for the **Nephro Healthcare Tracker Ver 2.0**. 
 
