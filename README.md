@@ -1,6 +1,6 @@
 # 🩺 Nephro Healthcare Tracker (Personal Edition) - Ver 2.0
 
-Welcome to the distribution hub for the **Nephro Healthcare Tracker VER 2.0**. 
+Welcome to the distribution hub for the **Nephro Healthcare Tracker Ver 2.0**. 
 
 This open-source management toolkit provides a structured, automated home vitals monitoring template and a tracking dashboard ecosystem designed to help kidney transplant recipients, their families, and caregivers systematically log data to optimize follow-up consultations with their treating nephrologists.
 
@@ -47,7 +47,7 @@ This tracker ecosystem is shared fully free of charge to maximize global patient
 We openly invite software developers, data analysts, Excel enthusiasts, and medical professionals to suggest feature enhancements, refine macro calculations, or add operational blocks.
 Please Share Your Valuable Feedback / Suggestions with us  : kidneycare193@gmail.com
 
-##  Your Motto Should Be : ** Small Numbers ( Patient Vitals ), Noted Every Day, Make Big Conversations Possible. **
+##  Your Motto Should Be : **Small Numbers ( Patient Vitals ), Noted Every Day, Make Big Conversations Possible.**
 
 ---
 * **Bug Tracking & Layout Requests:** To report structural bugs or request additions, open a ticket inside the **Issues** tab.
