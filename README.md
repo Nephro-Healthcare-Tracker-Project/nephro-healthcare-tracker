@@ -21,9 +21,9 @@ Welcome to the distribution hub for the **Nephro Healthcare Tracker**. This open
 
 * 📖 **COMPREHENSIVE USER MANUAL FOR NEPHRO HEALTHCARE TRACKER VER 2.0 [ PDF VERSION ] :** [Nephro_Tracker_User_Manual_v_1.0--[_Online_Sharing_].pdf](https://github.com/user-attachments/files/33297400/Nephro_Tracker_User_Manual_v_1.0--._Online_Sharing_.pdf)
 
-## 📥 Public Cloud Share Mirrors
+## 📥 Public Cloud Share Mirrors ( ALTERNATE DOWNLOAD OPTIONS )
 
-* ☁️ **OneDrive Folder Mirror:** [[https://1drv.ms](https://1drv.ms/f/c/8ee4dcad39f1237c/IgB9h4jDAPKMQZQAE72YceFSAeYN9XzODRrld2k3EFrnnIY?e=6ktJSr)]
+* ☁️ **OneDrive Mirror:** [[https://1drv.ms](https://1drv.ms/f/c/8ee4dcad39f1237c/IgB9h4jDAPKMQZQAE72YceFSAeYN9XzODRrld2k3EFrnnIY?e=6ktJSr)]
 
 * ☁️ **Google Drive Mirror:** [https://google.com](https://drive.google.com/drive/folders/1803NrJS1yNAAvDU3uhCYDEiSemBAhPnK?usp=sharing)
 
@@ -46,7 +46,4 @@ This tracker ecosystem is shared fully free of charge to maximize global patient
 * **Code Integration:** To volunteer configuration adjustments, submit a formal **Pull Request** for review.
 
 **Copyright License:** Distributed openly under the global **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** legal protocol. You are free to share and adapt these documents, provided appropriate credit attribution is given and modified materials remain 100% free and unmonetized for all future users.
-[Nephro_Tracker_User_Manual_v_1.0--[_Online_Sharing_].pdf](https://github.com/user-attachments/files/33297400/Nephro_Tracker_User_Manual_v_1.0--._Online_Sharing_.pdf)
-[Nephro_Healthcare_Tracker_v_2.0_BLANK--[_Online_Sharing_].xlsx](https://github.com/user-attachments/files/33297399/Nephro_Healthcare_Tracker_v_2.0_BLANK--._Online_Sharing_.xlsx)
-
 
